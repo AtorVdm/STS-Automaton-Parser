@@ -1,0 +1,14 @@
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/EventReax.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/Automaton.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/AutomatonReax.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/Edge.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/Variable.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/StateReax.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/State.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/TransitionReax.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/Expression.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/BadState.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/ControllableReax.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/InputReax.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/automaton/Event.java
+/Users/Ator/Projects/Java/STS-Automaton-Parser/shared/src/main/java/org/project/reax/InvariantReax.java

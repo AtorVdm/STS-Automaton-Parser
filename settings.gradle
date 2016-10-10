@@ -1,0 +1,4 @@
+rootProject.name = 'STS-Automaton-Parser'
+include 'automaton'
+include 'shared'
+include 'sts'

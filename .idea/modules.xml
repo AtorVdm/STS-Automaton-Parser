@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STS-Automaton-Parser.iml" filepath="$PROJECT_DIR$/.idea/modules/STS-Automaton-Parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STS-Automaton-Parser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/STS-Automaton-Parser_main.iml" group="STS-Automaton-Parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STS-Automaton-Parser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/STS-Automaton-Parser_test.iml" group="STS-Automaton-Parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automaton/automaton.iml" filepath="$PROJECT_DIR$/.idea/modules/automaton/automaton.iml" group="automaton" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automaton/automaton_main.iml" filepath="$PROJECT_DIR$/.idea/modules/automaton/automaton_main.iml" group="automaton" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automaton/automaton_test.iml" filepath="$PROJECT_DIR$/.idea/modules/automaton/automaton_test.iml" group="automaton" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_main.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_test.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sts/sts.iml" filepath="$PROJECT_DIR$/.idea/modules/sts/sts.iml" group="sts" />
+    </modules>
+  </component>
+</project>
